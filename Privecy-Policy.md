@@ -1,6 +1,6 @@
 # NekoChan Privacy Policy
 
-Last updated: [Your Date]
+**Last updated**: Tuesday, June 17th, 2023
 
 This Privacy Policy outlines how we collect, use, and protect your personal information when using NekoChan ("the bot"). By using the bot, you agree to the collection and use of information as described in this policy.
 
