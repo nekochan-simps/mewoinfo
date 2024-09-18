@@ -63,4 +63,5 @@ By using NekoChan, you also agree to our Privacy Policy, which explains how we c
 ## Contact
 
 If you have any questions or concerns regarding these Terms of Service, please contact us through our support server.
+
 [Nekochan's Home](https://discord.gg/UZ3kMkqfyn)
